@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![JoshuaRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaoYuchen)](https://github.com/CaoYuchen/github-readme-stats)
 
-![](https://github.com/CaoYuchen/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen)](https://github.com/CaoYuchen/github-readme-stats)
