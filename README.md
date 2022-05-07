@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![JoshuaRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaoYuchen)](https://github.com/CaoYuchen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&langs_count=4)](https://github.com/CaoYuchen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen)](https://github.com/CaoYuchen/github-readme-stats)
 
 
 <!-- <a href="https://github.com/CaoYuchen/github-readme-stats">
