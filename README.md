@@ -1,4 +1,4 @@
-### Hi there 👋
+### Plus Ultra
 
 <!--
 **CaoYuchen/CaoYuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📍| 𝘗𝘪𝘵𝘵𝘴𝘣𝘶𝘳𝘨𝘩
-🎓| Carnegie Mellon University
-👐| Digital Art + Computer Science
-🗣| Plus Ultra
-🧩| 🎹 📸 🏂🎨🛩
-👣| 🇨🇳🇯🇵🇰🇷🇸🇬🇷🇺🇺🇸🏳️‍🌈
 
 [![JoshuaRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaoYuchen)](https://github.com/CaoYuchen/github-readme-stats)
