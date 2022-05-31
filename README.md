@@ -5,11 +5,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact" />
 
-- 🤠 
+- 🤠 A heroism looking for light in life. 
 - ❤️ Plus Ultra
 - 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics
 - 🎆 Photography | Filmmaking | 3D Art | Web & Game | Digital Music
-- 🍀 
+- 🍀 Believe in humanity, beleive in myself.
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=CaoYuchen&column=7)](https://github.com/CaoYuchen) -->
