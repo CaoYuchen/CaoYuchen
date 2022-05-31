@@ -13,7 +13,7 @@
 - ❤️ Plus Ultra
 - 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics
 - 🎆 Photography | Filmmaking | 3D Art | Web & Game | Digital Music
-- 🍀 Believe in humanity, beleive in myself.
+- 🍀 I like Bears
 
 
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=CaoYuchen&left_color=red&right_color=green&left_text=Now%20You%20See%20Me" />
