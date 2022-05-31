@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact" />
 
-- 🤠 A heroism looking for the light in his life. 
+- 🤠 A heroism looking for lights in his life.
 - ❤️ Plus Ultra
 - 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics
 - 🎆 Photography | Filmmaking | 3D Art | Web & Game | Digital Music
