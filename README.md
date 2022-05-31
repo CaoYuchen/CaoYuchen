@@ -7,8 +7,8 @@
 
 - 🤠 
 - ❤️ Plus Ultra
-- 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics & SLAM
-- 🎆 Photography | Filmmaking | 3D Art | Web & Game Develop | Digital Music
+- 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics
+- 🎆 Photography | Filmmaking | 3D Art | Web & Game | Digital Music
 - 🍀 
 
 
