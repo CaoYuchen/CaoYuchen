@@ -9,11 +9,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact" />
 
-- 🤠 A heroism looking for light in life. 
+- 🤠 A heroism looking for the light in his life. 
 - ❤️ Plus Ultra
 - 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics
 - 🎆 Photography | Filmmaking | 3D Art | Web & Game | Digital Music
-- 🍀 I like Bears
+- 🍀 Love Bears
 
 
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=CaoYuchen&left_color=red&right_color=green&left_text=Now%20You%20See%20Me" />
