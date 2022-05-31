@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaoYuchen&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=CaoYuchen&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&?myquote=Your Quote)](https://github.com/CaoYuchen/github-readme-quotes)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact)](https://github.com/CaoYuchen/github-readme-stats)
 
 
