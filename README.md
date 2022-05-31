@@ -21,16 +21,7 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ![](https://komarev.com/ghpvc/?username=CaoYuchen&color=brightgreen)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=CaoYuchen&left_color=white&right_color=dark&left_text=Hello%20Visitors)
 
 [![JoshuaRain's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaoYuchen)](https://github.com/CaoYuchen/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact)](https://github.com/CaoYuchen/github-readme-stats)
-
-
-<!-- <a href="https://github.com/CaoYuchen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaoYuchen&repo=github-readme-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaoYuchen&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/CaoYuchen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaoYuchen&repo=github-readme-stats" />
-</a>
- -->
