@@ -7,7 +7,7 @@
 
 ### Normadic Programmer & Artist
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact&hide=html" />
 
 - 🤠 A heroism looking for lights in his life.
 - 🍀 Plus Ultra
