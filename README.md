@@ -5,7 +5,7 @@
 
 
 
-### Normadic Programmer & Artist
+### Nomadic Programmer & Artist
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact&hide=html,jupyter%20notebook" />
 
