@@ -5,11 +5,11 @@
 
 
 
-### Nomadic Programmer & Artist
+### Joshua Rain
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoYuchen&layout=compact&hide=html,jupyter%20notebook" />
 
-- 🤠 looking for lights in the life.
+- 🤠 A nomadic programmer and artist.
 - 🍀 Plus Ultra
 - 🌌 Machine & Deep Learning | Computer Vision & Graphics | Robotics
 - 🎆 Photography | Filmmaking | 3D Art | Web & Game | Digital Music
